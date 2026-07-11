@@ -21,5 +21,4 @@ Promox Virtual Machines
 Planned Improvements
 
 Windows Active Directory is planned for a future deployment.
-IAM (Keycloak) and Vault will be deployed when additional resources are available.
-Current Bastion host is allocated 80 GB of storage to support future IAM integration.
+IAM (Keycloak) and Vault will be deployed when additional resources are available, current Bastion host is allocated 80 GB of storage to support future IAM integration.
